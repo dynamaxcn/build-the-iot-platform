@@ -63,6 +63,12 @@
 扩展：
 
 - [EcmaScript6 全规范（含node）](https://github.com/ouvens/es6-code-style-guide)
+- JS 数据结构和算法
+  - [js数据结构和算法（一）概述](https://segmentfault.com/a/1190000000679870)
+  - [js数据结构和算法（二）栈和队列](https://segmentfault.com/a/1190000000711713)
+  - [js数据结构和算法（三）二叉树](https://segmentfault.com/a/1190000000740261)
+  - [js数据结构和算法（四）图和图算法](https://segmentfault.com/a/1190000002410553)
+  - [js数据结构和算法（五）字典和散列（hash）](https://segmentfault.com/a/1190000002447815)
 
 ### Node.js ###
 
