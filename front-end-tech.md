@@ -39,7 +39,13 @@
 - [React.js2016年最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
 
 - [浅尝初试 React 技术栈](https://segmentfault.com/a/1190000010641959)
-
+- 图解Redux数据流
+  -[图解Redux数据流(一)](https://alisec-ued.github.io/2016/11/23/%E5%9B%BE%E8%A7%A3Redux%E6%95%B0%E6%8D%AE%E6%B5%81(%E4%B8%80)/)
+  -[图解Redux数据流(二)](https://alisec-ued.github.io/2016/11/28/%E5%9B%BE%E8%A7%A3Redux%E6%95%B0%E6%8D%AE%E6%B5%81(%E4%BA%8C)/)
+-[这段时间研究了下Redux，写写自己对它的感觉](http://react-china.org/t/redux/2687)
+-[深入浅出Redux](https://github.com/berwin/Blog/issues/4)
+-[《看漫画，学 Redux》 —— A cartoon intro to Redux](https://zhuanlan.zhihu.com/p/28104754)
+-[简单流程图理解React和Redux](http://blog.suzper.com/2016/08/12/%E7%AE%80%E5%8D%95%E6%B5%81%E7%A8%8B%E5%9B%BE%E7%90%86%E8%A7%A3React%E5%92%8CRedux/)
 
 ## JavaScript && Node.js ##
 
